@@ -967,7 +967,7 @@
 
 
 
-// Prêt à donner vie à votre projet  /* Contact Footer Styles */
+ /*Prêt à donner vie à votre projet   Contact Footer Styles */
 
  body {
    margin: 0;
@@ -1174,7 +1174,7 @@
 
 
 
-//client
+ /*client*/
 
  .client {
    font-family: 'Poppins', sans-serif;
@@ -1381,7 +1381,9 @@
    justify-content: flex-end;
  }
 
- .img-logo {}
+ .img-logo {
+   
+ }
 
  /* ======= FOOTER BASE ======= */
  .footer {
@@ -1589,6 +1591,69 @@
  .footer-legal span:hover {
    color: #d4af37;
  }
+ .footer-credit {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: 0.85rem;
+   color: #cdd5e0;
+   font-weight: 500;
+   text-align: center;
+   text-decoration: none;
+   transition: color 0.3s;
+   flex-wrap: wrap;
+   gap: 15px;
+   align-items: center;
+ }
+  .footer-credit a {
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.3s;
+    cursor: pointer;
+    white-space: nowrap;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    transition: color 0.3s;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    transition: color 0.3s;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    transition: color 0.3s;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .footer-credit a:hover {
+    color: #d4af37;
+
+  }
+  .footer-credit a {
+    color: #cdd5e0;
+    text-decoration: none;
+    transition: color 0.3s;
+    
+  }
+  .footer-credit a:hover {
+    color: #d4af37;
+     
+  }
+
 
  /* ======= RESPONSIVE MEDIA QUERIES ======= */
 
