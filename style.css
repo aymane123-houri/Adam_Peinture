@@ -967,7 +967,7 @@
 
 
 
- /* Contact Footer Styles */
+// Prêt à donner vie à votre projet  /* Contact Footer Styles */
 
  body {
    margin: 0;
@@ -1174,7 +1174,7 @@
 
 
 
- /*client*/
+//client
 
  .client {
    font-family: 'Poppins', sans-serif;
@@ -1665,32 +1665,26 @@
    }
 
    .footer-logo {
-     width: 50px;
-   }
-
-   .footer-container {
-     gap: 25px;
-   }
-
-   .footer-logo {
-     width: 100px;
-   }
-
-   .footer-column h4 {
-     font-size: 1rem;
-   }
-
-   .footer-description {
-     font-size: 0.85rem;
-   }
-
-   .footer-bottom {
-     font-size: 0.75rem;
-   }
-
-   .social-icons a {
-     width: 36px;
-     height: 36px;
-     font-size: 0.9rem;
-   }
- }
+    width: 50px;
+  }
+  .footer-container {
+    gap: 25px;
+  }
+  .footer-logo {
+    width: 100px;
+  }
+  .footer-column h4 {
+    font-size: 1rem;
+  }
+  .footer-description {
+    font-size: 0.85rem;
+  }
+  .footer-bottom {
+    font-size: 0.75rem;
+  }
+  .social-icons a {
+    width: 36px;
+    height: 36px;
+    font-size: 0.9rem;
+  }
+}
